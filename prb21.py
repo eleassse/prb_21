@@ -1,2 +1,2 @@
-a = 'nfjbvandfbjldfbnkfjdpbaiujfblv'
+a = str(input())
 print(len(a))
