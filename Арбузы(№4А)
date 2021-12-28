@@ -1,0 +1,8 @@
+ves_arbuza = int(input())
+ves_polovinki = ves_arbuza // 2
+if ves_arbuza % 2 == 0 and ves_polovinki % 2 == 0:
+    print('yes')
+if ves_arbuza == 2:
+    print('yes')
+else:
+    print('no')
